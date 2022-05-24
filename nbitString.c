@@ -1,3 +1,7 @@
+/*
+	This file prints all the different combinations of zeroes and ones for a given n-bit binary string using Recursion
+*/
+
 #include <stdio.h>
 
 void binary(int n);
