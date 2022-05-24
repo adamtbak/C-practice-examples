@@ -1,3 +1,7 @@
+/*
+	This file finds the greatest element in a given array using Recursion
+*/
+
 #include <stdio.h>
 
 int maxElementInArray(int array[], int n);
